@@ -1,0 +1,683 @@
+// !$*UTF8*$!
+{
+	0008928C0FFC3664003FF4AA /* NSRange.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSRange.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSRange.h;
+		sourceTree = "<absolute>";
+	};
+	000E973C0FFA6DF30032029D /* SerialExample.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {881, 630}}";
+			sepNavSelRange = "{1131, 0}";
+			sepNavVisRange = "{293, 1134}";
+		};
+	};
+	000E973D0FFA6DF30032029D /* SerialExample.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {881, 4508}}";
+			sepNavSelRange = "{8767, 0}";
+			sepNavVisRange = "{7873, 1030}";
+		};
+	};
+	000E984E0FFA79400032029D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 269;
+		vrLoc = 0;
+	};
+	000E98530FFA79400032029D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 269;
+		vrLoc = 0;
+	};
+	000E98550FFA79400032029D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E973C0FFA6DF30032029D /* SerialExample.h */;
+		name = "SerialExample.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 230;
+		vrLoc = 0;
+	};
+	000E98DC0FFA81620032029D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E98DD0FFA81620032029D /* fcntl.h */;
+		name = "fcntl.h: 418";
+		rLen = 57;
+		rLoc = 15751;
+		rType = 0;
+		vrLen = 781;
+		vrLoc = 15258;
+	};
+	000E98DD0FFA81620032029D /* fcntl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = fcntl.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/fcntl.h;
+		sourceTree = "<absolute>";
+	};
+	000E98E50FFA81620032029D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E98E60FFA81620032029D /* fcntl.h */;
+		name = "fcntl.h: 418";
+		rLen = 57;
+		rLoc = 15751;
+		rType = 0;
+		vrLen = 781;
+		vrLoc = 15258;
+	};
+	000E98E60FFA81620032029D /* fcntl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = fcntl.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/fcntl.h;
+		sourceTree = "<absolute>";
+	};
+	000E99160FFA8B2C0032029D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Arduino Serial Example_Prefix.pch */;
+		name = "Arduino Serial Example_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 175;
+		vrLoc = 0;
+	};
+	000E99170FFA8B2C0032029D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E99180FFA8B2C0032029D /* termios.h */;
+		name = "termios.h: 266";
+		rLen = 28;
+		rLoc = 11252;
+		rType = 0;
+		vrLen = 1037;
+		vrLoc = 10853;
+	};
+	000E99180FFA8B2C0032029D /* termios.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = termios.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/termios.h;
+		sourceTree = "<absolute>";
+	};
+	000E991B0FFA8B2C0032029D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Arduino Serial Example_Prefix.pch */;
+		name = "Arduino Serial Example_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 175;
+		vrLoc = 0;
+	};
+	000E991C0FFA8B2C0032029D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E991D0FFA8B2C0032029D /* termios.h */;
+		name = "termios.h: 269";
+		rLen = 17;
+		rLoc = 11312;
+		rType = 0;
+		vrLen = 1037;
+		vrLoc = 10853;
+	};
+	000E991D0FFA8B2C0032029D /* termios.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = termios.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/termios.h;
+		sourceTree = "<absolute>";
+	};
+	000E995D0FFA93340032029D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E995E0FFA93340032029D /* types.h */;
+		name = "types.h: 235";
+		rLen = 16;
+		rLoc = 7071;
+		rType = 0;
+		vrLen = 545;
+		vrLoc = 6653;
+	};
+	000E995E0FFA93340032029D /* types.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = types.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/types.h;
+		sourceTree = "<absolute>";
+	};
+	000E995F0FFA93340032029D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E99600FFA93340032029D /* _types.h */;
+		name = "_types.h: 117";
+		rLen = 59;
+		rLoc = 4365;
+		rType = 0;
+		vrLen = 802;
+		vrLoc = 3701;
+	};
+	000E99600FFA93340032029D /* _types.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = _types.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/usr/include/i386/_types.h;
+		sourceTree = "<absolute>";
+	};
+	000E99630FFA93340032029D /* unistd.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = unistd.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/usr/include/unistd.h;
+		sourceTree = "<absolute>";
+	};
+	000E99650FFA93340032029D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E99660FFA93340032029D /* unistd.h */;
+		name = "unistd.h: 473";
+		rLen = 7;
+		rLoc = 16442;
+		rType = 0;
+		vrLen = 1132;
+		vrLoc = 15908;
+	};
+	000E99660FFA93340032029D /* unistd.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = unistd.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/usr/include/unistd.h;
+		sourceTree = "<absolute>";
+	};
+	000E99670FFA93340032029D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E99680FFA93340032029D /* types.h */;
+		name = "types.h: 235";
+		rLen = 16;
+		rLoc = 7071;
+		rType = 0;
+		vrLen = 545;
+		vrLoc = 6653;
+	};
+	000E99680FFA93340032029D /* types.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = types.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/types.h;
+		sourceTree = "<absolute>";
+	};
+	000E99690FFA93340032029D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E996A0FFA93340032029D /* _types.h */;
+		name = "_types.h: 117";
+		rLen = 59;
+		rLoc = 4365;
+		rType = 0;
+		vrLen = 802;
+		vrLoc = 3701;
+	};
+	000E996A0FFA93340032029D /* _types.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = _types.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/usr/include/i386/_types.h;
+		sourceTree = "<absolute>";
+	};
+	000E99720FFA93D90032029D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E99630FFA93340032029D /* unistd.h */;
+		name = "unistd.h: 473";
+		rLen = 59;
+		rLoc = 16442;
+		rType = 0;
+		vrLen = 922;
+		vrLoc = 15158;
+	};
+	000E99780FFBEBB40032029D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E99790FFBEBB40032029D /* iom328p.h */;
+		name = "iom328p.h: 735";
+		rLen = 6;
+		rLoc = 13084;
+		rType = 0;
+		vrLen = 460;
+		vrLoc = 12780;
+	};
+	000E99790FFBEBB40032029D /* iom328p.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = iom328p.h;
+		path = "/Applications/arduino-0016/hardware/tools/avr/avr-4/include/avr/iom328p.h";
+		sourceTree = "<absolute>";
+	};
+	000E99820FFBEBB40032029D /* HardwareSerial.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = HardwareSerial.cpp;
+		path = "/Applications/arduino-0016/hardware/cores/arduino/HardwareSerial.cpp";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {881, 2562}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{759, 740}";
+		};
+	};
+	000E99830FFBEBB40032029D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E99840FFBEBB40032029D /* iom328p.h */;
+		name = "iom328p.h: 735";
+		rLen = 6;
+		rLoc = 13084;
+		rType = 0;
+		vrLen = 460;
+		vrLoc = 12780;
+	};
+	000E99840FFBEBB40032029D /* iom328p.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = iom328p.h;
+		path = "/Applications/arduino-0016/hardware/tools/avr/avr-4/include/avr/iom328p.h";
+		sourceTree = "<absolute>";
+	};
+	001849200FFC4BBD00BFE7CF /* NSGeometry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSGeometry.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSGeometry.h;
+		sourceTree = "<absolute>";
+	};
+	001849380FFC50A400BFE7CF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 001849200FFC4BBD00BFE7CF /* NSGeometry.h */;
+		name = "NSGeometry.h: 58";
+		rLen = 4;
+		rLoc = 1261;
+		rType = 0;
+		vrLen = 536;
+		vrLoc = 913;
+	};
+	004EF0800FFA4A330037A5AD /* Arduino Serial Example */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Arduino Serial Example";
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	004EF08F0FFA4A420037A5AD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	004EF0900FFA4A420037A5AD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	006CE5F20FFD5C2500F6E421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E973D0FFA6DF30032029D /* SerialExample.m */;
+		name = "SerialExample.m: 259";
+		rLen = 0;
+		rLoc = 8767;
+		rType = 0;
+		vrLen = 1030;
+		vrLoc = 7873;
+	};
+	006CE5F30FFD5C2500F6E421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E99820FFBEBB40032029D /* HardwareSerial.cpp */;
+		name = "HardwareSerial.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 740;
+		vrLoc = 759;
+	};
+	006CE5F40FFD5C2500F6E421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 006CE5F50FFD5C2500F6E421 /* HardwareSerial.cpp */;
+		name = "HardwareSerial.cpp: 135";
+		rLen = 0;
+		rLoc = 3486;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 3235;
+	};
+	006CE5F50FFD5C2500F6E421 /* HardwareSerial.cpp */ = {
+		isa = PBXFileReference;
+		name = HardwareSerial.cpp;
+		path = "/Users/gabe/g/arduino-read-only/hardware/cores/arduino/HardwareSerial.cpp";
+		sourceTree = "<absolute>";
+	};
+	006CE5F60FFD5C2500F6E421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 006CE5F70FFD5C2500F6E421 /* HardwareSerial.h */;
+		name = "HardwareSerial.h: 45";
+		rLen = 0;
+		rLoc = 1304;
+		rType = 0;
+		vrLen = 786;
+		vrLoc = 992;
+	};
+	006CE5F70FFD5C2500F6E421 /* HardwareSerial.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = HardwareSerial.h;
+		path = "/Applications/arduino-0016/hardware/cores/arduino/HardwareSerial.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {881, 910}}";
+			sepNavSelRange = "{1189, 0}";
+			sepNavVisRange = "{992, 785}";
+		};
+	};
+	006CE5F80FFD5C2500F6E421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E973D0FFA6DF30032029D /* SerialExample.m */;
+		name = "SerialExample.m: 259";
+		rLen = 0;
+		rLoc = 8767;
+		rType = 0;
+		vrLen = 1030;
+		vrLoc = 7873;
+	};
+	006CE5F90FFD5C2500F6E421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E99820FFBEBB40032029D /* HardwareSerial.cpp */;
+		name = "HardwareSerial.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 740;
+		vrLoc = 759;
+	};
+	006CE5FA0FFD5C2500F6E421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 006CE5FB0FFD5C2500F6E421 /* HardwareSerial.cpp */;
+		name = "HardwareSerial.cpp: 135";
+		rLen = 0;
+		rLoc = 3486;
+		rType = 0;
+		vrLen = 616;
+		vrLoc = 3235;
+	};
+	006CE5FB0FFD5C2500F6E421 /* HardwareSerial.cpp */ = {
+		isa = PBXFileReference;
+		name = HardwareSerial.cpp;
+		path = "/Users/gabe/g/arduino-read-only/hardware/cores/arduino/HardwareSerial.cpp";
+		sourceTree = "<absolute>";
+	};
+	006CE5FC0FFD5C2500F6E421 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 006CE5FD0FFD5C2500F6E421 /* HardwareSerial.h */;
+		name = "HardwareSerial.h: 39";
+		rLen = 0;
+		rLoc = 1189;
+		rType = 0;
+		vrLen = 785;
+		vrLoc = 992;
+	};
+	006CE5FD0FFD5C2500F6E421 /* HardwareSerial.h */ = {
+		isa = PBXFileReference;
+		name = HardwareSerial.h;
+		path = "/Applications/arduino-0016/hardware/cores/arduino/HardwareSerial.h";
+		sourceTree = "<absolute>";
+	};
+	0074978B0FFC3EE7008A85B7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0008928C0FFC3664003FF4AA /* NSRange.h */;
+		name = "NSRange.h: 13";
+		rLen = 11;
+		rLoc = 236;
+		rType = 0;
+		vrLen = 582;
+		vrLoc = 0;
+	};
+	007497A20FFC4146008A85B7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 007497A30FFC4146008A85B7 /* NSObjCRuntime.h */;
+		name = "NSObjCRuntime.h: 115";
+		rLen = 33;
+		rLoc = 3726;
+		rType = 0;
+		vrLen = 897;
+		vrLoc = 3162;
+	};
+	007497A30FFC4146008A85B7 /* NSObjCRuntime.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObjCRuntime.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSObjCRuntime.h;
+		sourceTree = "<absolute>";
+	};
+	007497A70FFC4146008A85B7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 007497A80FFC4146008A85B7 /* NSObjCRuntime.h */;
+		name = "NSObjCRuntime.h: 115";
+		rLen = 33;
+		rLoc = 3726;
+		rType = 0;
+		vrLen = 897;
+		vrLoc = 3162;
+	};
+	007497A80FFC4146008A85B7 /* NSObjCRuntime.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObjCRuntime.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSObjCRuntime.h;
+		sourceTree = "<absolute>";
+	};
+	0087E2E70FFD05130054CB9C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E973C0FFA6DF30032029D /* SerialExample.h */;
+		name = "SerialExample.h: 35";
+		rLen = 0;
+		rLoc = 1131;
+		rType = 0;
+		vrLen = 1134;
+		vrLoc = 293;
+	};
+	008D93560FFCF1C9002D1EC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 001849200FFC4BBD00BFE7CF /* NSGeometry.h */;
+		name = "NSGeometry.h: 43";
+		rLen = 11;
+		rLoc = 928;
+		rType = 0;
+		vrLen = 592;
+		vrLoc = 613;
+	};
+	008D93570FFCF1C9002D1EC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0008928C0FFC3664003FF4AA /* NSRange.h */;
+		name = "NSRange.h: 13";
+		rLen = 11;
+		rLoc = 236;
+		rType = 0;
+		vrLen = 582;
+		vrLoc = 0;
+	};
+	008D935B0FFCF1C9002D1EC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 000E973D0FFA6DF30032029D /* SerialExample.m */;
+		name = "SerialExample.m: 156";
+		rLen = 7;
+		rLoc = 4385;
+		rType = 0;
+		vrLen = 902;
+		vrLoc = 4580;
+	};
+	00C14F1E0FFD2881003E04AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00C14F1F0FFD2881003E04AE /* ioctl.h */;
+		name = "ioctl.h: 97";
+		rLen = 5;
+		rLoc = 4132;
+		rType = 0;
+		vrLen = 631;
+		vrLoc = 3930;
+	};
+	00C14F1F0FFD2881003E04AE /* ioctl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ioctl.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/ioctl.h;
+		sourceTree = "<absolute>";
+	};
+	00C14F220FFD2881003E04AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 00C14F230FFD2881003E04AE /* ioctl.h */;
+		name = "ioctl.h: 97";
+		rLen = 5;
+		rLoc = 4132;
+		rType = 0;
+		vrLen = 631;
+		vrLoc = 3930;
+	};
+	00C14F230FFD2881003E04AE /* ioctl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ioctl.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/ioctl.h;
+		sourceTree = "<absolute>";
+	};
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {752, 598}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+			sepNavWindowFrame = "{{15, 47}, {811, 726}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 004EF0800FFA4A330037A5AD /* Arduino Serial Example */;
+		activeTarget = 8D1107260486CEB800E47090 /* Arduino Serial Example */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Arduino Serial Example */,
+		);
+		codeSenseManager = 004EF0900FFA4A420037A5AD /* Code sense */;
+		executables = (
+			004EF0800FFA4A330037A5AD /* Arduino Serial Example */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					703,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 268252490;
+			PBXWorkspaceStateSaveDate = 268252490;
+		};
+		perUserProjectItems = {
+			000E984E0FFA79400032029D /* PBXTextBookmark */ = 000E984E0FFA79400032029D /* PBXTextBookmark */;
+			000E98530FFA79400032029D /* PBXTextBookmark */ = 000E98530FFA79400032029D /* PBXTextBookmark */;
+			000E98550FFA79400032029D /* PBXTextBookmark */ = 000E98550FFA79400032029D /* PBXTextBookmark */;
+			000E98DC0FFA81620032029D /* PBXTextBookmark */ = 000E98DC0FFA81620032029D /* PBXTextBookmark */;
+			000E98E50FFA81620032029D /* PBXTextBookmark */ = 000E98E50FFA81620032029D /* PBXTextBookmark */;
+			000E99160FFA8B2C0032029D /* PBXTextBookmark */ = 000E99160FFA8B2C0032029D /* PBXTextBookmark */;
+			000E99170FFA8B2C0032029D /* PBXTextBookmark */ = 000E99170FFA8B2C0032029D /* PBXTextBookmark */;
+			000E991B0FFA8B2C0032029D /* PBXTextBookmark */ = 000E991B0FFA8B2C0032029D /* PBXTextBookmark */;
+			000E991C0FFA8B2C0032029D /* PBXTextBookmark */ = 000E991C0FFA8B2C0032029D /* PBXTextBookmark */;
+			000E995D0FFA93340032029D /* PBXTextBookmark */ = 000E995D0FFA93340032029D /* PBXTextBookmark */;
+			000E995F0FFA93340032029D /* PBXTextBookmark */ = 000E995F0FFA93340032029D /* PBXTextBookmark */;
+			000E99650FFA93340032029D /* PBXTextBookmark */ = 000E99650FFA93340032029D /* PBXTextBookmark */;
+			000E99670FFA93340032029D /* PBXTextBookmark */ = 000E99670FFA93340032029D /* PBXTextBookmark */;
+			000E99690FFA93340032029D /* PBXTextBookmark */ = 000E99690FFA93340032029D /* PBXTextBookmark */;
+			000E99720FFA93D90032029D /* PBXTextBookmark */ = 000E99720FFA93D90032029D /* PBXTextBookmark */;
+			000E99780FFBEBB40032029D /* PBXTextBookmark */ = 000E99780FFBEBB40032029D /* PBXTextBookmark */;
+			000E99830FFBEBB40032029D /* PBXTextBookmark */ = 000E99830FFBEBB40032029D /* PBXTextBookmark */;
+			001849380FFC50A400BFE7CF /* PBXTextBookmark */ = 001849380FFC50A400BFE7CF /* PBXTextBookmark */;
+			006CE5F20FFD5C2500F6E421 /* PBXTextBookmark */ = 006CE5F20FFD5C2500F6E421 /* PBXTextBookmark */;
+			006CE5F30FFD5C2500F6E421 /* PBXTextBookmark */ = 006CE5F30FFD5C2500F6E421 /* PBXTextBookmark */;
+			006CE5F40FFD5C2500F6E421 /* PBXTextBookmark */ = 006CE5F40FFD5C2500F6E421 /* PBXTextBookmark */;
+			006CE5F60FFD5C2500F6E421 /* PBXTextBookmark */ = 006CE5F60FFD5C2500F6E421 /* PBXTextBookmark */;
+			006CE5F80FFD5C2500F6E421 /* PBXTextBookmark */ = 006CE5F80FFD5C2500F6E421 /* PBXTextBookmark */;
+			006CE5F90FFD5C2500F6E421 /* PBXTextBookmark */ = 006CE5F90FFD5C2500F6E421 /* PBXTextBookmark */;
+			006CE5FA0FFD5C2500F6E421 /* PBXTextBookmark */ = 006CE5FA0FFD5C2500F6E421 /* PBXTextBookmark */;
+			006CE5FC0FFD5C2500F6E421 /* PBXTextBookmark */ = 006CE5FC0FFD5C2500F6E421 /* PBXTextBookmark */;
+			0074978B0FFC3EE7008A85B7 /* PBXTextBookmark */ = 0074978B0FFC3EE7008A85B7 /* PBXTextBookmark */;
+			007497A20FFC4146008A85B7 /* PBXTextBookmark */ = 007497A20FFC4146008A85B7 /* PBXTextBookmark */;
+			007497A70FFC4146008A85B7 /* PBXTextBookmark */ = 007497A70FFC4146008A85B7 /* PBXTextBookmark */;
+			0087E2E70FFD05130054CB9C /* PBXTextBookmark */ = 0087E2E70FFD05130054CB9C /* PBXTextBookmark */;
+			008D93560FFCF1C9002D1EC5 /* PBXTextBookmark */ = 008D93560FFCF1C9002D1EC5 /* PBXTextBookmark */;
+			008D93570FFCF1C9002D1EC5 /* PBXTextBookmark */ = 008D93570FFCF1C9002D1EC5 /* PBXTextBookmark */;
+			008D935B0FFCF1C9002D1EC5 /* PBXTextBookmark */ = 008D935B0FFCF1C9002D1EC5 /* PBXTextBookmark */;
+			00C14F1E0FFD2881003E04AE /* PBXTextBookmark */ = 00C14F1E0FFD2881003E04AE /* PBXTextBookmark */;
+			00C14F220FFD2881003E04AE /* PBXTextBookmark */ = 00C14F220FFD2881003E04AE /* PBXTextBookmark */;
+		};
+		sourceControlManager = 004EF08F0FFA4A420037A5AD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {881, 383}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 269}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Arduino Serial Example_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {881, 383}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 175}";
+		};
+	};
+	8D1107260486CEB800E47090 /* Arduino Serial Example */ = {
+		activeExec = 0;
+		executables = (
+			004EF0800FFA4A330037A5AD /* Arduino Serial Example */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 26}, {811, 726}}";
+		};
+	};
+}
