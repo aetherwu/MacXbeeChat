@@ -149,28 +149,31 @@
 	
 	// mark that the thread is running
 	readThreadRunning = TRUE;
-	
-	const int BUFFER_SIZE = 100;
-	char byte_buffer[BUFFER_SIZE]; // buffer for holding incoming data
-	int numBytes=0; // number of bytes read during read
-	NSString *text; // incoming text from the serial port
+    
+    const int BUFFER_SIZE = 100;
+    char byte_buffer[BUFFER_SIZE]; // buffer for holding incoming data
+    int numBytes=0; // number of bytes read during readORSSSerialPort
 	
 	// assign a high priority to this thread
 	[NSThread setThreadPriority:1.0];
 	
 	// this will loop unitl the serial port closes
 	while(TRUE) {
+        
 		// read() blocks until some data is available or the port is closed
 		numBytes = read(serialFileDescriptor, byte_buffer, BUFFER_SIZE); // read up to the size of the buffer
 		if(numBytes>0) {
 			// create an NSString from the incoming bytes (the bytes aren't null terminated)
-			text = [NSString stringWithCString:byte_buffer encoding:NSUTF8StringEncoding];
+            NSString *incomingStr = [NSString stringWithCString:byte_buffer encoding:NSASCIIStringEncoding];
+			NSString *text = [NSString stringWithFormat:@"%@ \n", incomingStr];
+            //text = [NSString stringWithUTF8String:byte_buffer];
 			
 			// this text can't be directly sent to the text area from this thread
 			//  BUT, we can call a selctor on the main thread.
 			[self performSelectorOnMainThread:@selector(appendToIncomingText:)
 					       withObject:text
 					    waitUntilDone:YES];
+            
 		} else {
 			break; // Stop the thread if there is an error
 		}
@@ -211,7 +214,7 @@
         NSString *portTitle = (NSString*)IORegistryEntryCreateCFProperty(serialPort, CFSTR(kIOCalloutDeviceKey),  kCFAllocatorDefault, 0);
         
         //Choose cable device first
-        if( [portTitle isEqualToString:[NSString stringWithFormat:@"/dev/cu.usbserial-FTGNRRHK"]] ) {
+        if( [portTitle isEqualToString:[NSString stringWithFormat:@"/dev/cu.usbserial-FTH144NC"]] ) {
             [self appendToIncomingText: @"Xbee pluged in, attemp to connect.\n"];
             selectedPort = portTitle;
         }else if(selectedPort!=nil && [portTitle isEqualToString:[NSString stringWithFormat:@"/dev/cu.HC-06-DevB"]] ){
